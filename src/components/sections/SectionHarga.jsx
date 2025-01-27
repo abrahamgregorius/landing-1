@@ -15,7 +15,7 @@ export default function SectionHarga() {
             Rp. 99.000,-
           </p>
         </div>
-        <BigButton href="https://wa.me/+6282163438039?text=KLAIM%20PROMO%20PEL%20ULTRA%20MOP%20HARI%20INI">AMBIL PROMO HARI INI</BigButton>
+        <BigButton>AMBIL PROMO HARI INI</BigButton>
       </Section>
     </>
   );

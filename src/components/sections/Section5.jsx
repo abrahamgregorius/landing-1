@@ -22,7 +22,6 @@ export default function Section5() {
           <br />
 
           <BigButton href="https://api.whatsapp.com/send/?phone=%2B6282163438039&text=KLAIM+PROMO+ULTRA+MOP&type=phone_number&app_absent=0">BELI SEKARANG</BigButton>
-
           <img src={banner} alt="" />
         </div>
       </Section>
