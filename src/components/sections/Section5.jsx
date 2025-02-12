@@ -16,7 +16,7 @@ export default function Section5() {
           </p>
 
           <p className="text-4xl lg:text-6xl text-red-400 font-bold">
-            Rp. 99.000,-
+            Rp. 49.000,-
           </p>
 
           <br />
