@@ -12,7 +12,7 @@ export default function SectionHarga() {
           <br />
           <p className="text-3xl lg:text-4xl">KHUSUS HARI INI HANYA</p>
           <p className="text-6xl lg:text-8xl text-red-400 font-bold">
-            Rp. 99.000,-
+            Rp. 49.000,-
           </p>
         </div>
         <BigButton>AMBIL PROMO HARI INI</BigButton>
